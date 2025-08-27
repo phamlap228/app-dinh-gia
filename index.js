@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tải My Android App</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+      background: #f9f9f9;
+    }
+    h1 {
+      color: #333;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background: #28a745;
+      color: white;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 18px;
+      transition: background 0.3s;
+    }
+    .btn:hover {
+      background: #218838;
+    }
+  </style>
+</head>
+<body>
+  <h1>📱 Định giá - Android App</h1>
+  <p>Ứng dụng Định giá tài sản.</p>
+
+  <!-- Link download APK (hãy đổi tên repo + username cho đúng) -->
+  <a class="btn" href="https://github.com/phamlap228/app-dinh-gia/releases/download/1.0.2-v122/app-release.apk">
+    👉 Tải về APK
+  </a>
+
+  <p style="margin-top:40px; color:#777;">© 2025 Định giá by VPBank</p>
+</body>
+</html>
